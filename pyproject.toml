@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pycounts"
+name = "pycounts_tak"
 version = "0.1.0"
 description = "CaCalculate word counts in a text file!"
 authors = ["Tak Sripratak"]
